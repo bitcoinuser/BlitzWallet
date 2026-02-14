@@ -1574,7 +1574,7 @@
         "seedHeader": "Frase de recuperação da conta"
       },
       "viewAccountPage": {
-        "informationMessage": "Tem certeza de que deseja mostrar este códdigo QR?\n\nLer sua frase de recuperação é conveniente, mas certifique-se de estar usando um dispositivo seguro e confiável. Isso ajuda a manter sua carteira segura."
+        "informationMessage": "Tem certeza de que deseja mostrar este código QR?\n\nLer sua frase de recuperação é conveniente, mas certifique-se de estar usando um dispositivo seguro e confiável. Isso ajuda a manter sua carteira segura."
       },
       "editAccountName": {
         "title": "Nome da conta",
