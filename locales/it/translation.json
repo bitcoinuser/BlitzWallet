@@ -1757,7 +1757,8 @@
       "refunded": "Rimborsato",
       "rootstockTx": "Tx Rootstock",
       "lockTx": "Tx di blocco",
-      "refundTx": "Tx di rimborso"
+      "refundTx": "Tx di rimborso",
+      "refundError": "Rimborso non riuscito. Riprova o contatta l’assistenza."
     },
     "viewAllLiquidSwaps": {
       "rescanComplete": "Riscansione completa",
@@ -1774,7 +1775,10 @@
       "swap": "Trasferisci",
       "rescanning": "Scansione in corso…",
       "autoClaimLabel": "Riscatto automatico",
-      "autoClaimHelper": "Converte automaticamente i fondi Liquid in Lightning quando viene raggiunta la soglia minima."
+      "autoClaimHelper": "Converte automaticamente i fondi Liquid in Lightning quando viene raggiunta la soglia minima.",
+      "unsupportedTitle": "Non supportiamo più {{type}}",
+      "unsupportedDesc": "Se hai ancora fondi su {{type}}, ripristina la tua frase di recupero Blitz in un portafoglio compatibile per accedervi. Hai bisogno di aiuto? Contattaci qui sotto.",
+      "contactUs": "Contattaci"
     },
     "notifications": {
       "mainToggle_enabled": "Notifiche abilitate",
